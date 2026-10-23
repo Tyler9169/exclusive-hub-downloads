@@ -10,6 +10,8 @@ Copyright © 2026 yhl. All rights reserved.
 - [Mac · Intel 芯片](https://github.com/Tyler9169/exclusive-hub-downloads/releases/latest/download/ExclusiveHub-Mac-Intel.zip)
 - [Windows · x64](https://github.com/Tyler9169/exclusive-hub-downloads/releases/latest/download/ExclusiveHub-Windows-x64.zip)
 
+三个压缩包最外层均附带“首次打开说明.txt”。请先阅读对应系统的步骤。
+
 解压后双击 Mac 的“专属总台.app”或 Windows 的“专属总台.exe”，不需要安装 Python。启动后会在浏览器打开工作台；保留启动窗口，结束时点击“退出程序”。
 
 ## 第一次打开（免费方式）
